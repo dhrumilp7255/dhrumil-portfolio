@@ -102,12 +102,12 @@ export const resume = {
     github: "https://github.com/dhrumilp7255/NYC-Airbnb-Market-Intelligence-Dashboard",
     images: [
       "/projects/nyc-airbnb/Executive_summary.png",
-      "/projects/nyc-airbnb/Geo density + neighborhood totals.png",
+      "/projects/nyc-airbnb/Geo density_neighborhood totals.png",
       "/projects/nyc-airbnb/Host concentration or dominance.png",
       "/projects/nyc-airbnb/Host trends over time.png",
       "/projects/nyc-airbnb/Property type vs price & beds.png",
-      "/projects/nyc-airbnb/Room type by neighborhood + avg beds & price.png",
-      "/projects/nyc-airbnb/Room type distribution + relationship.png",
+      "/projects/nyc-airbnb/Room type by neighborhood_avg beds & price.png",
+      "/projects/nyc-airbnb/Room type distribution_relationship.png",
       "/projects/nyc-airbnb/Top property types by neighborhood.png",
     ],
     
