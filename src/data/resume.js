@@ -12,7 +12,7 @@ export const resume = {
 
   hero: {
     eyebrow: "Introduction",
-    headline: "I’m Dhrumil - Turning Complex Data into Insights & Scalable Solutions.",
+    headline: "I’m Dhrumil — Architecting pipelines, optimizing queries, and transforming data into decisions that drive real business impact.",
     ctaPrimary: "View Projects",
     ctaSecondary: "View Experience",
     stats: [
@@ -20,8 +20,6 @@ export const resume = {
       { value: "1.5M+", label: "Records Processed" },
       { value: "76K+", label: "Healthcare Records Analyzed" },
       { value: "15+", label: "Dashboards & Analytical Reports" },
-      { value: "120+", label: "Risk Assessment Projects Tracked" },
-      { value: "45%", label: "Automation Efficiency Improvement" },
     ],
   },
 
