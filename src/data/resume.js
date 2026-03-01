@@ -6,7 +6,7 @@ export const resume = {
   phone: "+1 352 328 9285",
   email: "dhrumilpatel1989@gmail.com",
   linkedin: "https://www.linkedin.com/in/dhrumil-patel-02b92a1b2/",
-  github: "",
+  github: "https://github.com/dhrumilp7255",
   summary:
     "MS-ISOM candidate with experience in BI dashboards, reporting automation, and data engineering. Builds trusted metrics, clean pipelines, and stakeholder-ready insights.",
 
